@@ -36,7 +36,7 @@ This end-to-end data analysis project aims to predict the arrival delay time of 
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-delay-prediction.git
+   git clone https://github.com/edemekaUSOROH/flight-delay-prediction.git
    ```
 2. Open the Jupyter Notebooks and run them in the provided sequence:
    - `data_acquisition.ipynb`
